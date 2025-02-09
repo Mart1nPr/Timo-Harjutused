@@ -1,5 +1,3 @@
-ArvudeSummaArray
-
 const numbers = [7, 2, 8, 4, 6, 7, 8, 9, 11];
 answer = 0;
 
